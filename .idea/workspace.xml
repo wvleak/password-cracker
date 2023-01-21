@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e13c71f-ec95-4b53-adfd-d8ea0c716c53" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KeRyB85CY8FiokjIjLqpEb3D0v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.dict_hashing">
+    <configuration name="cracker" type="PythonConfigurationType" factoryName="Python">
+      <module name="password-cracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/algos/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cracker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_hashing" type="PythonConfigurationType" factoryName="Python">
+      <module name="password-cracker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/algos/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_hashing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cracker" />
+      <item itemvalue="Python.dict_hashing" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e13c71f-ec95-4b53-adfd-d8ea0c716c53" name="Default Changelist" comment="" />
+      <created>1674333313763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674333313763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2160" y="419" key="#Notifications" timestamp="1674334050627">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state x="2160" y="419" key="#Notifications/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674334050627" />
+    <state x="1903" y="250" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1674334304474">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1903" y="250" width="1071" height="802" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674334304474" />
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom" timestamp="1674339680619">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674339680619" />
+    <state width="1379" height="192" key="GridCell.Tab.0.center" timestamp="1674339680617">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674339680617" />
+    <state width="1379" height="192" key="GridCell.Tab.0.left" timestamp="1674339680616">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674339680616" />
+    <state width="1379" height="192" key="GridCell.Tab.0.right" timestamp="1674339680618">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="192" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674339680618" />
+    <state width="1379" height="239" key="GridCell.Tab.1.bottom" timestamp="1674333879292">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.bottom/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674333879292" />
+    <state width="1379" height="239" key="GridCell.Tab.1.center" timestamp="1674333879292">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.center/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674333879292" />
+    <state width="1379" height="239" key="GridCell.Tab.1.left" timestamp="1674333879291">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.left/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674333879291" />
+    <state width="1379" height="239" key="GridCell.Tab.1.right" timestamp="1674333879292">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1379" height="239" key="GridCell.Tab.1.right/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674333879292" />
+    <state x="1948" y="227" key="SettingsEditor" timestamp="1674339705139">
+      <screen x="1440" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1948" y="227" key="SettingsEditor/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674339705139" />
+  </component>
+</project>
