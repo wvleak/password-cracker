@@ -44,6 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -134,25 +135,25 @@
       <screen x="1440" y="25" width="2560" height="1415" />
     </state>
     <state x="2214" y="374" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674400854594" />
-    <state width="1379" height="192" key="GridCell.Tab.0.bottom" timestamp="1674405666943">
+    <state width="1259" height="577" key="GridCell.Tab.0.bottom" timestamp="1674431935852">
       <screen x="1440" y="25" width="2560" height="1415" />
     </state>
-    <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674405666943" />
+    <state width="1259" height="577" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674431935852" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1674387971175" />
-    <state width="1379" height="192" key="GridCell.Tab.0.center" timestamp="1674405666941">
+    <state width="1259" height="577" key="GridCell.Tab.0.center" timestamp="1674431935850">
       <screen x="1440" y="25" width="2560" height="1415" />
     </state>
-    <state width="1379" height="192" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674405666941" />
+    <state width="1259" height="577" key="GridCell.Tab.0.center/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674431935850" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1674387971174" />
-    <state width="1379" height="192" key="GridCell.Tab.0.left" timestamp="1674405666940">
+    <state width="1259" height="577" key="GridCell.Tab.0.left" timestamp="1674431935849">
       <screen x="1440" y="25" width="2560" height="1415" />
     </state>
-    <state width="1379" height="192" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674405666940" />
+    <state width="1259" height="577" key="GridCell.Tab.0.left/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674431935849" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1674387971173" />
-    <state width="1379" height="192" key="GridCell.Tab.0.right" timestamp="1674405666942">
+    <state width="1259" height="577" key="GridCell.Tab.0.right" timestamp="1674431935851">
       <screen x="1440" y="25" width="2560" height="1415" />
     </state>
-    <state width="1379" height="192" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674405666942" />
+    <state width="1259" height="577" key="GridCell.Tab.0.right/0.25.1440.875/1440.25.2560.1415@1440.25.2560.1415" timestamp="1674431935851" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1674387971174" />
     <state width="1379" height="239" key="GridCell.Tab.1.bottom" timestamp="1674333879292">
       <screen x="1440" y="25" width="2560" height="1415" />

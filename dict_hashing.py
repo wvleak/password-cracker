@@ -5,10 +5,16 @@ def file_to_array(file):
         passwords = f.read().splitlines()
     return passwords
 
-def password_hashing(passwords):
+def password_hashing(passwords, htype):
     hashed_password = []
+
     for password in passwords:
-        hashed_password.append(hashlib.sha256(password.encode("utf-8")).hexdigest())
+        if htype == "md5":
+            hashed_password.append(hashlib.md5(password.encode("utf-8")).hexdigest())
+        elif htype == "sha1":
+            hashed_password.append(hashlib.sha1(password.encode("utf-8")).hexdigest())
+        elif htype == "sha256":
+            hashed_password.append(hashlib.sha256(password.encode("utf-8")).hexdigest())
     return hashed_password
 
 
@@ -24,21 +30,21 @@ def text_to_dict(file):
 
 
 
-def hash_dict():
-
+def hash_dict(htype):
+    export = ""
     file = input("Enter the path to the file :\n")
 
-    export = input("Do you want to save the new file ? (Y/N) :\n")
+    while export != "Y" and export != "y" and export != "N" and export != "n":
+        export = input("Do you want to save the dictionary ? (Y/N) :\n")
 
     plist = file_to_array(file)
-    hlist = password_hashing(plist)
+    hlist = password_hashing(plist, htype)
 
     dict = {hlist[i]: plist[i] for i in range(len(plist))}
     #print(dict)
 
-    if export == "Y":
-        export_name = input("Name of the new file :\n")
-        f = open(export_name+".txt","w")
+    if export == "Y" or export == "y":
+        f = open("saved_hashes_"+htype+".txt","a")
         for key, value in dict.items():
             f.write('%s:%s\n' % (key, value))
 
