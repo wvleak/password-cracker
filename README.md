@@ -1,1 +1,1 @@
-# PasswordCracker
+# Simple Password Cracking Tool
