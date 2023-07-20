@@ -1,1 +1,1 @@
-# Simple Password Cracking Tool
+# Light Password Cracking Tool
